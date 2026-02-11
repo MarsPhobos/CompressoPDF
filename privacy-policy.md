@@ -1,21 +1,27 @@
-# Privacy Policy
+Privacy Policy – CompressoPDF
 
-**CompressoPDF** respects your privacy.
+CompressoPDF does not collect or store any personal user data.
 
-## Data Collection
-This app does **not** collect, store, or share any personal data.
+PDF Processing
+All PDF compression and editing happens locally on your device.
+Your files are never uploaded to any server.
 
-## Data Processing
-All PDF compression and processing happens **locally on the user’s device**.
-No files are uploaded to any server.
+Advertising
+This app uses Google AdMob to show ads. AdMob may collect:
+- Device information
+- Advertising ID
+- App usage data
+- Crash diagnostics
 
-## Permissions
-The app may request access to local files only to allow the user to select and save PDF documents.
+This data is handled according to Google’s Privacy Policy:
+https://policies.google.com/privacy
 
-## Third-Party Services
-This app does not use analytics, ads, or third-party data collection services.
+Permissions
+INTERNET – required for ads
+File access – required to open and save PDFs
 
-## Contact
-If you have any questions, you may contact the developer via the Play Store listing.
+Children
+This app is not directed to children under 13.
 
-_Last updated: January 2026_
+Contact
+marsphobos72@gmail.com
