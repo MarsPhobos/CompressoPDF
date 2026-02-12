@@ -17,9 +17,7 @@ This data is handled according to Google’s Privacy Policy:
 https://policies.google.com/privacy
 
 Permissions : 
-
 INTERNET – required for ads
-
 File access – required to open and save PDFs
 
 Children : 
